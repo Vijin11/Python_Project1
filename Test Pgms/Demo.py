@@ -7,6 +7,7 @@ from selenium.webdriver.common.by import By
     driver = webdriver.Chrome(service=ser)
 
 
+	// navigating to url
 
     driver.get("http://www.google.com")
 
